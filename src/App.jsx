@@ -1,5 +1,5 @@
 function App() {
-  throw new Error('Meeeeeh')
+  // throw new Error('Meeeeeh')
 
   return <h1>Hello Wooorld</h1>
 }
