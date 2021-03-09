@@ -1,3 +1,5 @@
+import './styles/global.css'
+
 function App() {
   // throw new Error('Meeeeeh')
 
