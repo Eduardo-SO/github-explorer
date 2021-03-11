@@ -12,6 +12,6 @@ ul {
 
   display: grid;
   gap: 32px;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
 }
 `;
