@@ -1,9 +1,13 @@
-import './styles/global.scss'
+import RepositoryList from './components/RepositoryList'
+import GlobalStyle from './styles/global'
 
 function App() {
-  // throw new Error('Meeeeeh')
-
-  return <h1>Hello Wooorld</h1>
+  return (
+    <>
+      <RepositoryList />
+      <GlobalStyle />
+    </>
+  )
 }
 
 export default App
